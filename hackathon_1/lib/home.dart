@@ -35,7 +35,7 @@ class _firstState extends State<First> {
           SizedBox(height: 10),
            Text(
               'FireGuard',
-              style: TextStyle(fontSize: 30),
+              style: TextStyle(fontSize: 31),
             ),
         ],
       )
